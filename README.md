@@ -2,7 +2,6 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on Data Science
-- 📫 How to reach me bhushanbaviskar022@gmail.com
 - linkedin https://www.linkedin.com/in/bhushan-baviskar-147767251
 
 <!---
